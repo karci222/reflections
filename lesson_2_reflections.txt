@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It will create a directory, where are saved metadata, that are crucial to reload previous versions, show commits, and generally manage all
 the things with gits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging is part of process, where you will store files, that should be tracked by git, and repository stores these files. It`s good when
+you need to add some files, but you are not sure which files you want to add, and if you don`t want to add them in that directory, you
+can always change that.
