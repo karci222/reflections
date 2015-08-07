@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It will create a directory, where are saved metadata, that are crucial to reload previous versions, show commits, and generally manage all
+the things with gits.
