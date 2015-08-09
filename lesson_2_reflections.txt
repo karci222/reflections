@@ -22,3 +22,8 @@ in final version, but still would like to try creating it.
 How do the diagrams help you visualize the branch structure?
 
 It is very useful, when I want to see where I currently am in my project. It can also be very useful, when I will get lost in my project.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is, that we just connected two different hierachies into one, and we can use all the features we created so far. It is represented the way it
+is because the branch wasn`t part of hierachy, but later it was.
