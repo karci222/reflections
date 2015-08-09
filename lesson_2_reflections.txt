@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 They can be helpful, when I want to create something new, that isn`t tested yet, and it could be buggy, but I still need a working version. That`s the 
 exact time when I should start thinking about making a new branch. Another good example can be when I want to make feature, that I`m not sure I want it
 in final version, but still would like to try creating it.
+
+How do the diagrams help you visualize the branch structure?
+
+It is very useful, when I want to see where I currently am in my project. It can also be very useful, when I will get lost in my project.
