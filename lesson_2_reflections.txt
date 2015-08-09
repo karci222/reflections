@@ -27,3 +27,11 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is, that we just connected two different hierachies into one, and we can use all the features we created so far. It is represented the way it
 is because the branch wasn`t part of hierachy, but later it was.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: 	-it`s faster to do merges
+		-it`s easier to do merges
+		-it`s safer to do merges
+		
+Cons: 	-there can be merging conflicts
