@@ -21,3 +21,9 @@ features, that are just in test phase.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I think the biggest benefit would be when I want to upload some older version, because I`m not happy with new one.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use some other cloud services like OneDrive, or Google Drive. For example, I can imagine, that on Google Drive, I could use
+Google+ to communicate, and maybe communication would be easier that way, but I can doing it when I`m using GitHub too. But I`m sure,
+that making changes would be much more harder when using Google Drive, than using GitHub.
