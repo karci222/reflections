@@ -8,3 +8,12 @@ Why might you want to always pull changes manually rather than having Git automa
 Maybe I would like to do some experimental changes, that could break final product, so I would rather make those changes safe and
 therefore, I would make them only local, and when everything`s alright, I can just add it to repository, and if it isn`t, I`ll just
 reload everything from online repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are stored on GitHub, and not on local machine. They are useful, when I don`t want to paste them to my local computer, but
+I still want acces to them.
+Clones are copies from GitHub repositories into local computer. They are useful when I want to add something from GitHub to my local
+computer.
+Branches are present on local machine, and they are like parts of the tree of my program. They are useful when adding some extra
+features, that are just in test phase.
