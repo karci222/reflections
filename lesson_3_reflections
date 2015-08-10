@@ -27,3 +27,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I could use some other cloud services like OneDrive, or Google Drive. For example, I can imagine, that on Google Drive, I could use
 Google+ to communicate, and maybe communication would be easier that way, but I can doing it when I`m using GitHub too. But I`m sure,
 that making changes would be much more harder when using Google Drive, than using GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would make changes in separate branches, when I want to do changes, but they can be different from changes made by others,
+and ther is some risk of conflicts. Creating something in master branch can a lot more easier most of the time, but working
+in separate branches can add some more effectivity when working on bigger projects.
